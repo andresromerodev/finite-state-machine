@@ -1,0 +1,1 @@
+<?xml version="1.0" ?><estado identificador="A" tipo="1"><aristas><string>1</string><arista><estadosiguiente identificador="B" tipo="3"></estadosiguiente><estadoanterior reference="../../.."></estadoanterior></arista></aristas></estado>
